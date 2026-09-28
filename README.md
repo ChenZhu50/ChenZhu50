@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=4285F4&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Chen+Zhu;I+make+AI+work+on+real+hardware;and+ship+web+apps+that+stay+up" alt="Hi, I'm Chen Zhu" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg"><img src="assets/header-dark.svg" alt="Chen Zhu · Software Engineer · Backend, Full-stack, Applied AI" width="100%"></picture>
 
 <p>
   <a href="https://chenzhu50.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-EN%20%2F%20%E4%B8%AD%E6%96%87-1f2937?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/chenzhu50"><img src="https://img.shields.io/badge/LinkedIn-chenzhu50-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:Czhu1175@gmail.com"><img src="https://img.shields.io/badge/Email-Czhu1175%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:czhu1175@usc.edu"><img src="https://img.shields.io/badge/Email-czhu1175%40usc.edu-990000?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
@@ -26,17 +26,41 @@ I'm finishing an **M.S. in Computer Science at USC** (May 2027). Outside class, 
 
 ### Things I've built
 
-- **[Events Around](https://events-around-demo.onrender.com/)** finds live events near you and lets you save favorites. It's live; give the free server a minute to wake up.
-- **[Lifetime Financial Planner](https://github.com/kalvinliang965/ABCD-LFP)** ran Monte Carlo simulations on the server's only thread. I moved them onto a worker pool, and a 2,000-run batch dropped from **32 s to 9 s**.
-- **[BERT Attention Visualizer](https://bert-attention-visualizer.vercel.app/)** lets you compare how BERT models pay attention. It ended up in a linguistics course with **300+ students**.
+<p align="center">
+  <a href="https://events-around-demo.onrender.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-events-around-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-events-around-light.svg"><img src="assets/card-events-around-dark.svg" alt="Events Around: live event search, deployed on a free tier" width="49%"></picture></a>
+  <a href="https://github.com/kalvinliang965/ABCD-LFP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-financial-planner-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-financial-planner-light.svg"><img src="assets/card-financial-planner-dark.svg" alt="Lifetime Financial Planner: 32 s to 9 s with a worker pool" width="49%"></picture></a>
+  <a href="https://bert-attention-visualizer.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-bert-visualizer-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-bert-visualizer-light.svg"><img src="assets/card-bert-visualizer-dark.svg" alt="BERT Attention Visualizer: used by 300+ students" width="49%"></picture></a>
+  <a href="https://www.thisgoodcomedy.com/en/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-this-good-comedy-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-this-good-comedy-light.svg"><img src="assets/card-this-good-comedy-dark.svg" alt="This Good Comedy: #2 in Google organic search" width="49%"></picture></a>
+</p>
 
-### Tools I reach for
+<sub>Events Around runs on a free instance that sleeps when idle, so the first load can take about a minute.</sub>
 
-<img src="https://skillicons.dev/icons?i=py,java,kotlin,ts,react,nodejs,express,mongodb,postgres,nginx,gcp,git&perline=12" alt="Python, Java, Kotlin, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL, Nginx, Google Cloud, Git" />
+### Where I spend my time
+
+```text
+AI on real hardware
+├── Vision-guided control with depth cameras
+├── LLM agents that take actions (Gemini)
+└── Python services that sit next to hardware
+
+Backend & systems
+├── Concurrency: worker pools, job queues, scheduling
+├── REST APIs on MongoDB and PostgreSQL
+└── Linux, Nginx, HTTPS on a self-managed VPS
+
+Shipping products
+├── React + TypeScript on the web, Kotlin on Android
+├── Deploying on free tiers: Render, GitHub Pages, Vercel
+└── Tests before calling it done
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,kotlin,ts,react,nodejs,express,mongodb,postgres,nginx,gcp,git&perline=12" alt="Python, Java, Kotlin, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL, Nginx, Google Cloud, Git" />
+</p>
 
 ### What's next
 
-I'm looking for software engineering roles after graduation in 2027, open to Shanghai, Shenzhen, Beijing, Hangzhou, and Guangzhou. The [portfolio](https://chenzhu50.github.io/portfolio/) has the full story, or just [say hi](mailto:Czhu1175@gmail.com).
+I'm looking for software engineering roles after graduation in 2027, open to Shanghai, Shenzhen, Beijing, Hangzhou, and Guangzhou. The [portfolio](https://chenzhu50.github.io/portfolio/) has the full story, or just [say hi](mailto:czhu1175@usc.edu).
 
 <details>
 <summary><b>中文版 · 点击展开</b></summary>
@@ -51,6 +75,6 @@ I'm looking for software engineering roles after graduation in 2027, open to Sha
 
 **做过的东西**：[Events Around 活动搜索](https://events-around-demo.onrender.com/)、[财务规划平台](https://github.com/kalvinliang965/ABCD-LFP)（2,000 次模拟从 32 秒降到 9 秒）、[BERT 注意力可视化工具](https://bert-attention-visualizer.vercel.app/)（用于 300 多名学生的课程）。
 
-**接下来**：寻找 2027 年毕业后的软件开发岗位，意向上海、深圳、北京、杭州、广州。更多内容见[双语作品集](https://chenzhu50.github.io/portfolio/)。
+**接下来**：寻找 2027 年毕业后的软件开发岗位，意向上海、深圳、北京、杭州、广州。更多内容见[双语作品集](https://chenzhu50.github.io/portfolio/)，或发邮件到 czhu1175@usc.edu。
 
 </details>
