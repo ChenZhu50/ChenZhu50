@@ -62,4 +62,4 @@ Shipping products
 
 ### What's next
 
-I'm looking for software engineering roles after graduation in 2027, open to Shanghai, Shenzhen, Beijing, Hangzhou, and Guangzhou. The [portfolio](https://chenzhu50.github.io/portfolio/) has the full story, or just [say hi](mailto:czhu1175@usc.edu).
+I'm looking for software engineering roles after graduation in 2027, open to opportunities in China and internationally. The [portfolio](https://chenzhu50.github.io/portfolio/) has the full story, or just [say hi](mailto:czhu1175@usc.edu).
