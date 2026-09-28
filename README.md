@@ -1,3 +1,5 @@
+<p align="center"><b>English</b> &nbsp;|&nbsp; <a href="https://github.com/ChenZhu50/ChenZhu50/blob/master/README.zh-CN.md">中文</a></p>
+
 <div align="center">
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg"><img src="assets/header-dark.svg" alt="Chen Zhu · Software Engineer · Backend, Full-stack, Applied AI" width="100%"></picture>
@@ -61,20 +63,3 @@ Shipping products
 ### What's next
 
 I'm looking for software engineering roles after graduation in 2027, open to Shanghai, Shenzhen, Beijing, Hangzhou, and Guangzhou. The [portfolio](https://chenzhu50.github.io/portfolio/) has the full story, or just [say hi](mailto:czhu1175@usc.edu).
-
-<details>
-<summary><b>中文版 · 点击展开</b></summary>
-
-<br />
-
-我是朱琛，喜欢做那种要在真实世界里跑起来的软件：真的硬件、真的流量、真的不看说明书的用户。
-
-**在 Google，我教会了一只机械臂测手机。** 在上海的 AI 与机器人团队，我参与的系统里，Gemini 看懂手机屏幕，深度摄像头告诉机械臂东西在哪，六轴机械臂在实体 Android 手机上一步步点完测试用例。我负责中间的部分：把摄像头和机械臂标定到一起，让机械臂对准画面里的目标，让每一次点击既准又不会压坏屏幕；还有把 Gemini 指令变成机械臂动作、在多台手机间调度任务的 Python 后端。最后，原型按 Google 工程规范重构并合入了主代码库。期间我和队友用业余时间做了一个 Gemini 小工具，在内部 AI 黑客松 30 支队伍中拿了第一。
-
-**现在**，我在南加州大学读计算机硕士，2027 年 5 月毕业。课外负责[这个好喜剧](https://www.thisgoodcomedy.com/zh/)的双语网站，并和六人团队一起为 USC 中国研究生会搭建每月约 1,000 人使用的平台。
-
-**做过的东西**：[Events Around 活动搜索](https://events-around-demo.onrender.com/)、[财务规划平台](https://github.com/kalvinliang965/ABCD-LFP)（2,000 次模拟从 32 秒降到 9 秒）、[BERT 注意力可视化工具](https://bert-attention-visualizer.vercel.app/)（用于 300 多名学生的课程）。
-
-**接下来**：寻找 2027 年毕业后的软件开发岗位，意向上海、深圳、北京、杭州、广州。更多内容见[双语作品集](https://chenzhu50.github.io/portfolio/)，或发邮件到 czhu1175@usc.edu。
-
-</details>
