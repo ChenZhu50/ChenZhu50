@@ -10,9 +10,11 @@
   .ms{font:500 13px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#526077}
   .chip{font:500 13.5px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#334155}
   .dot{fill:#0f9f7a}
+  .pill{fill:#eef3fb;stroke:#d5deec}
+  .lv{font:600 12.5px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#0f9f7a}
   .ping{fill:none;stroke:#0f9f7a;stroke-width:2;animation:ping 2s ease-out infinite}
   .shine{animation:shine 6s ease-in-out infinite}
-  @keyframes ping{0%{r:5;opacity:.9}100%{r:14;opacity:0}}
+  @keyframes ping{0%{r:4;opacity:.9}100%{r:10;opacity:0}}
   @keyframes shine{0%,70%{transform:translateX(-200px)}100%{transform:translateX(800px)}}
   @media (prefers-reduced-motion: reduce){*{animation:none!important}}
 </style>
@@ -26,7 +28,7 @@
 <text x="28" y="52" class="t">Lifetime Financial Planner</text>
 <text x="28" y="90" class="d">Monte Carlo simulations moved off</text>
 <text x="28" y="114" class="d">the event loop onto a worker pool.</text>
-<text x="572" y="96" text-anchor="end" class="m">3.5×</text>
-<text x="572" y="120" text-anchor="end" class="ms">32 s → 9 s</text>
+<text x="572" y="104" text-anchor="end" class="m">3.5×</text>
+<text x="572" y="126" text-anchor="end" class="ms">32 s → 9 s</text>
 <rect x="28" y="150" width="65" height="26" rx="13" fill="#eef3fb" stroke="#d5deec"/><text x="60.5" y="167.5" text-anchor="middle" class="chip">React</text><rect x="101" y="150" width="81.39999999999999" height="26" rx="13" fill="#eef3fb" stroke="#d5deec"/><text x="141.7" y="167.5" text-anchor="middle" class="chip">Express</text><rect x="190.39999999999998" y="150" width="81.39999999999999" height="26" rx="13" fill="#eef3fb" stroke="#d5deec"/><text x="231.09999999999997" y="167.5" text-anchor="middle" class="chip">MongoDB</text><rect x="279.79999999999995" y="150" width="81.39999999999999" height="26" rx="13" fill="#eef3fb" stroke="#d5deec"/><text x="320.49999999999994" y="167.5" text-anchor="middle" class="chip">Workers</text>
 </svg>
