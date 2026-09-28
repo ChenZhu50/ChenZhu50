@@ -16,8 +16,8 @@
 **[BERT Attention Visualizer](https://bert-attention-visualizer.vercel.app/) · [源码](https://github.com/Team-Lasso/bert-attention-visualizer)**  
 与 3 位队友构建可交互的 Transformer 注意力可视化工具，支持 BERT、RoBERTa、DistilBERT 和 TinyBERT 对比，以及注意力热图和遮蔽词预测。项目被用于 300 多名学生的语言学课程。
 
-**Lifetime Financial Planner · 全栈开发**  
-与 3 位队友构建财务规划应用。将 CPU 密集的蒙特卡洛模拟迁入带任务队列和故障恢复的 worker pool，使 2,000 次模拟从 32 秒缩短到 9 秒；同时负责 React / TypeScript、Express、MongoDB 和认证方案。项目材料正在整理。
+**[Lifetime Financial Planner](https://github.com/kalvinliang965/ABCD-LFP) · 全栈开发**  
+与 3 位队友构建财务规划应用。将 CPU 密集的蒙特卡洛模拟迁入带任务队列和故障恢复的 worker pool，使 2,000 次模拟从 32 秒缩短到 9 秒；同时负责 React / TypeScript、Express、MongoDB 和认证方案。
 
 ## 经历与技术
 
