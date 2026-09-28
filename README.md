@@ -20,7 +20,7 @@ I build systems that have to work outside a demo: AI that drives real hardware, 
 - Shipped an autonomous UI testing system in which a **Gemini agent**, guided by phone screenshots and a **depth camera**, drives a **6-DOF robotic arm** to run real test cases on physical Android devices.
 - Built the vision-guided control loop: hand-eye calibration, visual servoing to center a target, and depth-checked taps that stay safe for the screen.
 - Owned the Python backend (Gemini instruction handling, dynamic multi-phone scheduling, arm control); a Kotlin client streamed screenshots and coordinates to it.
-- Refactored the **~15k-line MVP** across Python, Kotlin, and TypeScript to production standards and landed it in the monorepo, using Command, Factory, and Facade patterns so new arm commands plug in without controller changes.
+- Took the system from prototype to production: refactored it to Google engineering standards and landed it in the monorepo, using Command, Factory, and Facade patterns so new arm commands plug in without controller changes.
 - **1st place out of 30 teams** in an internal AI hackathon.
 
 <sub>Internal project: code and system details are not public.</sub>
@@ -62,10 +62,6 @@ I build systems that have to work outside a demo: AI that drives real hardware, 
 
 我是朱琛，南加州大学计算机科学硕士在读，预计 2027 年 5 月毕业，意向上海、深圳、北京、杭州、广州的软件开发岗位。
 
-**Google · 软件工程实习生（AI 与机器人方向，上海）**：交付了一套真机自动化 UI 测试系统。Gemini 智能体根据手机截图和深度摄像头信息，驱动六轴机械臂在实体 Android 手机上执行测试用例。我搭建了手眼标定、视觉伺服对中和带深度校验的点击控制，负责 Python 后端的 Gemini 指令处理、多手机动态调度与机械臂控制，并把约 1.5 万行 MVP 代码按工程规范重构入库。同期在内部 AI 黑客松 30 支队伍中获得第一名。
+**Google · 软件工程实习生（AI 与机器人方向，上海）**：交付了一套真机自动化 UI 测试系统。Gemini 智能体根据手机截图和深度摄像头信息，驱动六轴机械臂在实体 Android 手机上执行测试用例。我搭建了手眼标定、视觉伺服对中和带深度校验的点击控制，负责 Python 后端的 Gemini 指令处理、多手机动态调度与机械臂控制，并将系统从原型按 Google 工程规范重构后合入主代码库。同期在内部 AI 黑客松 30 支队伍中获得第一名。
 
 **项目**：[财务规划平台](https://github.com/kalvinliang965/ABCD-LFP)（2,000 次蒙特卡洛模拟由 32 秒缩短到 9 秒）、已上线的 [Events Around 活动搜索网站](https://events-around-demo.onrender.com/)、用于 300 多名学生课程的 [BERT 注意力可视化工具](https://bert-attention-visualizer.vercel.app/)，以及[这个好喜剧](https://www.thisgoodcomedy.com/zh/)的双语网站与 GEO。
-
-完整经历见[双语作品集](https://chenzhu50.github.io/portfolio/)。
-
-</details>
