@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="朱琛 · 软件工程师 · 后端、全栈、应用 AI">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7f9fc"/><stop offset="1" stop-color="#eef3fb"/></linearGradient>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2563eb"/><stop offset="1" stop-color="#0f9f7a"/></linearGradient>
+<radialGradient id="glow" cx="0.8" cy="0.5" r="0.5"><stop offset="0" stop-color="#2563eb" stop-opacity="0.18"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#d9e2f0"/></pattern>
+<clipPath id="card"><rect width="1200" height="320" rx="18"/></clipPath>
+</defs>
+<style>
+.name{font:700 64px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif;fill:#0f172a;letter-spacing:-1px}
+.cn{font:500 30px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif;fill:#526077}
+.tag{font:500 22px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif;fill:#526077}
+.big{font:700 22px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'PingFang SC', 'Microsoft YaHei', monospace;fill:url(#acc)}
+.small{font:400 18px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'PingFang SC', 'Microsoft YaHei', monospace;fill:#0f172a}
+.prompt{font:600 18px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'PingFang SC', 'Microsoft YaHei', monospace;fill:#0f9f7a}
+.edge{stroke:#c3d0e6;stroke-width:1.5}
+.flow{stroke:url(#acc);stroke-width:2.2;stroke-linecap:round;stroke-dasharray:14 200;animation:flow 2.4s linear infinite}
+.node{fill:#2563eb} .node.alt{fill:#0f9f7a}
+.halo{fill:#2563eb;opacity:0;animation:pulse 3.6s ease-out infinite}
+.bar{animation:grow 1.2s ease-out both}
+.fadein{animation:fade 1s ease-out both}
+@keyframes flow{from{stroke-dashoffset:214}to{stroke-dashoffset:0}}
+@keyframes pulse{0%{opacity:.35;r:5}70%{opacity:0;r:18}100%{opacity:0;r:18}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@keyframes l0{0%{opacity:0;transform:translateY(8px)}0.00%{opacity:0;transform:translateY(8px)}3.00%{opacity:1;transform:translateY(0)}22.00%{opacity:1;transform:translateY(0)}25.00%{opacity:0;transform:translateY(-8px)}100%{opacity:0;transform:translateY(-8px)}}.l0{opacity:0;animation:l0 12.8s linear infinite}@keyframes l1{0%{opacity:0;transform:translateY(8px)}25.00%{opacity:0;transform:translateY(8px)}28.00%{opacity:1;transform:translateY(0)}47.00%{opacity:1;transform:translateY(0)}50.00%{opacity:0;transform:translateY(-8px)}100%{opacity:0;transform:translateY(-8px)}}.l1{opacity:0;animation:l1 12.8s linear infinite}@keyframes l2{0%{opacity:0;transform:translateY(8px)}50.00%{opacity:0;transform:translateY(8px)}53.00%{opacity:1;transform:translateY(0)}72.00%{opacity:1;transform:translateY(0)}75.00%{opacity:0;transform:translateY(-8px)}100%{opacity:0;transform:translateY(-8px)}}.l2{opacity:0;animation:l2 12.8s linear infinite}@keyframes l3{0%{opacity:0;transform:translateY(8px)}75.00%{opacity:0;transform:translateY(8px)}78.00%{opacity:1;transform:translateY(0)}97.00%{opacity:1;transform:translateY(0)}100.00%{opacity:0;transform:translateY(-8px)}100%{opacity:0;transform:translateY(-8px)}}.l3{opacity:0;animation:l3 12.8s linear infinite}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.l0{opacity:1}}
+</style>
+<g clip-path="url(#card)">
+<rect width="1200" height="320" fill="url(#bg)"/>
+<rect width="1200" height="320" fill="url(#dots)" opacity="0.7"/>
+<rect width="1200" height="320" fill="url(#glow)"/>
+<g><line x1="860" y1="90" x2="980" y2="60" class="edge"/><line x1="860" y1="90" x2="980" y2="60" class="flow" style="animation-delay:0.00s"/><line x1="980" y1="60" x2="1100" y2="110" class="edge"/><line x1="980" y1="60" x2="1100" y2="110" class="flow" style="animation-delay:-0.37s"/><line x1="860" y1="90" x2="920" y2="190" class="edge"/><line x1="860" y1="90" x2="920" y2="190" class="flow" style="animation-delay:-0.74s"/><line x1="980" y1="60" x2="920" y2="190" class="edge"/><line x1="980" y1="60" x2="920" y2="190" class="flow" style="animation-delay:-1.11s"/><line x1="920" y1="190" x2="1050" y2="210" class="edge"/><line x1="920" y1="190" x2="1050" y2="210" class="flow" style="animation-delay:-1.48s"/><line x1="1100" y1="110" x2="1050" y2="210" class="edge"/><line x1="1100" y1="110" x2="1050" y2="210" class="flow" style="animation-delay:-1.85s"/><line x1="1050" y1="210" x2="1140" y2="250" class="edge"/><line x1="1050" y1="210" x2="1140" y2="250" class="flow" style="animation-delay:-2.22s"/><line x1="920" y1="190" x2="820" y2="250" class="edge"/><line x1="920" y1="190" x2="820" y2="250" class="flow" style="animation-delay:-0.19s"/><line x1="820" y1="250" x2="980" y2="280" class="edge"/><line x1="820" y1="250" x2="980" y2="280" class="flow" style="animation-delay:-0.56s"/><line x1="1050" y1="210" x2="980" y2="280" class="edge"/><line x1="1050" y1="210" x2="980" y2="280" class="flow" style="animation-delay:-0.93s"/><line x1="1100" y1="110" x2="1140" y2="250" class="edge"/><line x1="1100" y1="110" x2="1140" y2="250" class="flow" style="animation-delay:-1.30s"/><circle cx="860" cy="90" r="11" class="halo" style="animation-delay:0.00s"/><circle cx="860" cy="90" r="5" class="node"/><circle cx="980" cy="60" r="11" class="halo" style="animation-delay:0.45s"/><circle cx="980" cy="60" r="5" class="node alt"/><circle cx="1100" cy="110" r="11" class="halo" style="animation-delay:0.90s"/><circle cx="1100" cy="110" r="5" class="node"/><circle cx="920" cy="190" r="11" class="halo" style="animation-delay:1.35s"/><circle cx="920" cy="190" r="5" class="node"/><circle cx="1050" cy="210" r="11" class="halo" style="animation-delay:1.80s"/><circle cx="1050" cy="210" r="5" class="node alt"/><circle cx="1140" cy="250" r="11" class="halo" style="animation-delay:2.25s"/><circle cx="1140" cy="250" r="5" class="node"/><circle cx="820" cy="250" r="11" class="halo" style="animation-delay:2.70s"/><circle cx="820" cy="250" r="5" class="node"/><circle cx="980" cy="280" r="11" class="halo" style="animation-delay:3.15s"/><circle cx="980" cy="280" r="5" class="node alt"/></g>
+<g class="fadein"><text x="60" y="112" class="name">朱琛</text><text x="214" y="112" class="cn">Chen Zhu</text><text x="62" y="156" class="tag">软件工程师 · 后端 · 全栈 · 应用 AI</text></g>
+<rect x="62" y="176" width="140" height="4" rx="2" fill="url(#acc)" class="bar" style="transform-origin:62px 178px"/>
+<rect x="48" y="220" width="700" height="62" rx="12" fill="#ffffff" stroke="#d5deec"/>
+<text x="66" y="262" class="prompt">›</text>
+<g class="l0"><text x="88" y="262" class="big">Google</text><text x="184" y="262" class="small">软件工程实习生 · AI 与机器人</text></g><g class="l1"><text x="88" y="262" class="big">USC</text><text x="145" y="262" class="small">计算机科学硕士 · 2027</text></g><g class="l2"><text x="88" y="262" class="big">32s → 9s</text><text x="210" y="262" class="small">蒙特卡洛批量模拟迁入 worker pool</text></g><g class="l3"><text x="88" y="262" class="big">300+</text><text x="158" y="262" class="small">名学生在课上用我的 BERT 可视化工具</text></g>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="319" rx="18" fill="none" stroke="#d5deec"/>
+</svg>
