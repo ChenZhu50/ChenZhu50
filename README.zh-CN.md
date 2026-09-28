@@ -62,4 +62,4 @@
 
 ### 接下来
 
-我在寻找 2027 年毕业后的软件开发岗位，意向城市是上海、深圳、北京、杭州和广州。完整经历见[双语作品集](https://chenzhu50.github.io/portfolio/)，也欢迎直接[发邮件](mailto:czhu1175@usc.edu)。
+我在寻找 2027 年毕业后的软件开发岗位，国内外的机会都欢迎。完整经历见[双语作品集](https://chenzhu50.github.io/portfolio/)，也欢迎直接[发邮件](mailto:czhu1175@usc.edu)。
