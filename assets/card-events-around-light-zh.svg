@@ -26,9 +26,9 @@
 </g>
 <rect x="0.5" y="0.5" width="599" height="199" rx="14" fill="none" stroke="#d5deec"/>
 <text x="28" y="52" class="t">Events Around 活动搜索</text><rect x="508" y="22" width="64" height="24" rx="12" class="pill"/><circle cx="524" cy="34" r="4" class="dot"/><circle cx="524" cy="34" r="4" class="ping"/><text x="534" y="38.5" class="lv">live</text>
-<text x="28" y="90" class="d">搜索身边正在发生的活动，</text>
-<text x="28" y="114" class="d">收藏感兴趣的那些。</text>
-<text x="572" y="104" text-anchor="end" class="m">72</text>
-<text x="572" y="126" text-anchor="end" class="ms">项测试通过</text>
-<rect x="28" y="150" width="65" height="26" rx="13" fill="#eef3fb" stroke="#d5deec"/><text x="60.5" y="167.5" text-anchor="middle" class="chip">React</text><rect x="101" y="150" width="81.39999999999999" height="26" rx="13" fill="#eef3fb" stroke="#d5deec"/><text x="141.7" y="167.5" text-anchor="middle" class="chip">Express</text><rect x="190.39999999999998" y="150" width="106" height="26" rx="13" fill="#eef3fb" stroke="#d5deec"/><text x="243.39999999999998" y="167.5" text-anchor="middle" class="chip">TypeScript</text><rect x="304.4" y="150" width="81.39999999999999" height="26" rx="13" fill="#eef3fb" stroke="#d5deec"/><text x="345.09999999999997" y="167.5" text-anchor="middle" class="chip">MongoDB</text>
+<text x="28" y="90" class="d">网页端和原生 Android 双端，</text>
+<text x="28" y="114" class="d">共用同一套 Node.js 后端。</text>
+<text x="572" y="104" text-anchor="end" class="m" style="font-size:36px">跨平台</text>
+<text x="572" y="126" text-anchor="end" class="ms">网页 + Android</text>
+<rect x="28" y="150" width="65" height="26" rx="13" fill="#eef3fb" stroke="#d5deec"/><text x="60.5" y="167.5" text-anchor="middle" class="chip">React</text><rect x="101" y="150" width="73.19999999999999" height="26" rx="13" fill="#eef3fb" stroke="#d5deec"/><text x="137.6" y="167.5" text-anchor="middle" class="chip">Kotlin</text><rect x="182.2" y="150" width="81.39999999999999" height="26" rx="13" fill="#eef3fb" stroke="#d5deec"/><text x="222.89999999999998" y="167.5" text-anchor="middle" class="chip">Express</text><rect x="271.59999999999997" y="150" width="81.39999999999999" height="26" rx="13" fill="#eef3fb" stroke="#d5deec"/><text x="312.29999999999995" y="167.5" text-anchor="middle" class="chip">MongoDB</text>
 </svg>
